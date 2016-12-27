@@ -1,0 +1,23 @@
+{
+  "name": "thcrap-verifier",
+  "version": "0.0.1",
+  "description": "thcrap patch verification server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmlgc/thcrap-verifier"
+  },
+  "keywords": [
+    "thcrap",
+    "touhou",
+    "patch"
+  ],
+  "author": "Nmlgc",
+  "license": "Unlicense",
+  "devDependencies": {
+    "@types/node": "^6.0.53"
+  }
+}

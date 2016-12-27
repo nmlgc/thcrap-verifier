@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        // Necessary for debugging.
+        "sourceMap": true
+    }
+}
